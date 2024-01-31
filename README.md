@@ -120,20 +120,20 @@ PDF report generation through a user-friendly Tkinter GUI
 ## 1. Example 1: Single IP, Multiple Ports Scan
 - Graphical output
   
-    <img width="448" alt="image" src="https://github.com/oussben811/Network-Scanner/assets/78149349/bfa66e07-c131-4c5e-9f20-dc9eb6ff1ec3">
+   ![image](https://github.com/oussben811/Network-Scanner/assets/78149349/6186899d-93c0-4b08-be23-da33a771282d)
     
 - Terminal output
   
-  <img width="448" alt="image" src="https://github.com/oussben811/Network-Scanner/assets/78149349/bb116ca3-3e65-468f-a019-dfb4f1e1cead">
+  ![image](https://github.com/oussben811/Network-Scanner/assets/78149349/b11d71f6-1346-4441-98ce-952698a8b834)
 
 ## 2. Example 2: IP Range, Multiple Ports Scan
 - Graphical output
 
-  <img width="446" alt="image" src="https://github.com/oussben811/Network-Scanner/assets/78149349/249c28e6-d101-409d-af78-70ea17897eb8">
+   ![image](https://github.com/oussben811/Network-Scanner/assets/78149349/d8ccf96a-635f-4d5f-a10c-182af72179da)
 
 - Terminal output
   
-  <img width="451" alt="image" src="https://github.com/oussben811/Network-Scanner/assets/78149349/004350fb-73d3-4206-bd0e-02dcdb586041">
+  ![image](https://github.com/oussben811/Network-Scanner/assets/78149349/a46752f8-e11e-49f6-89a1-423aecacc534)
 
 ## 4. Example 4: IP Range, Port Range Scan
 - Graphical output
