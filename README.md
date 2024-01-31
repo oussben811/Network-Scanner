@@ -120,11 +120,13 @@ PDF report generation through a user-friendly Tkinter GUI
 ## 1. Example 1: Single IP, Multiple Ports Scan
 - Graphical output
   
-   ![image](https://github.com/oussben811/Network-Scanner/assets/78149349/6186899d-93c0-4b08-be23-da33a771282d)
+
+   ![image](https://github.com/oussben811/Network-Scanner/assets/78149349/83254d5e-fbd2-4f7d-a593-1dfca22f6ce6)
     
 - Terminal output
   
-  ![image](https://github.com/oussben811/Network-Scanner/assets/78149349/b11d71f6-1346-4441-98ce-952698a8b834)
+
+   ![image](https://github.com/oussben811/Network-Scanner/assets/78149349/f06bddee-35cb-490d-9557-9f2ad7c93b65)
 
 ## 2. Example 2: IP Range, Multiple Ports Scan
 - Graphical output
@@ -148,6 +150,9 @@ PDF report generation through a user-friendly Tkinter GUI
 ## 5. Example 5: Handling Invalid Inputs
 
    ![image](https://github.com/oussben811/Network-Scanner/assets/78149349/f19f3516-67c4-489d-bfec-c77fd95d2244)
+
+   ![image](https://github.com/oussben811/Network-Scanner/assets/78149349/9a6698a8-2ded-4d3d-8182-bd7c02fbffd8)
+
 
 ## 6. Example 6: Generating Log File (PDF)
 
